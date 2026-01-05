@@ -1,0 +1,4 @@
+<APIProxy name="security-pattern-demo">
+  <Description>Apigee Edge security patterns demo proxy</Description>
+  <BasePaths>/security-demo</BasePaths>
+</APIProxy>
